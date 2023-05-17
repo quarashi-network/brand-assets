@@ -2,24 +2,20 @@
 
 # Quarashi Brand Assets
 
-<br />
-<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi.png" />
-<br />
-<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi.png" />
+## Logo
+
+<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi.svg" />
 
 ## White
 
-<br />
-<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-name-white.png" />
-<br />
-<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-small-white.png" />
+<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-name-white.svg" />
+<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-small-white.svg" />
+<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-big-white.png" />
 
 ## Black
-<br />
-<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-small-black.png" />
-<br />
-<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-name-black.png" />
-
+<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-small-black.svg" />
+<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-name-black.svg" />
+<img alt="" src="https://raw.githubusercontent.com/quarashi-network/brand-assets/main/logo-quarashi-big-black.png" />
 
 ## WHAT IS QUARASHI?
 
